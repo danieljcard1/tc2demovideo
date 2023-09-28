@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Single Source, Many Outputs",
+    "section": "",
+    "text": "In this technical challenge, you explore concepts and processes that are central to writing with digital technologies as you use Quarto to create and publish web content."
+  },
+  {
+    "objectID": "index.html#description",
+    "href": "index.html#description",
+    "title": "Single Source, Many Outputs",
+    "section": "",
+    "text": "In this technical challenge, you explore concepts and processes that are central to writing with digital technologies as you use Quarto to create and publish web content."
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "Single Source, Many Outputs",
+    "section": "Goals",
+    "text": "Goals\nThis assignment is designed to help you:\n\ngain experience with tools and processes used to create technical content, e.g. markdown, YAML, and single-source publishing\nlearn and apply concepts that inform modern technical communication, e.g. single sourcing, topic-based authoring, content management, content strategy\npractice using git and github for version control and github pages for web publishing"
+  },
+  {
+    "objectID": "index.html#tools",
+    "href": "index.html#tools",
+    "title": "Single Source, Many Outputs",
+    "section": "Tools",
+    "text": "Tools\nToward that end, you will use a few key tools:\n\nRStudio. The interface you will use for authoring.\nMarkdown. The syntax you will use for authoring.\nYAML. The language you will use to configure your content generation.\nQuarto. The publishing “system.”"
+  },
+  {
+    "objectID": "index.html#the-challenge",
+    "href": "index.html#the-challenge",
+    "title": "Single Source, Many Outputs",
+    "section": "The Challenge",
+    "text": "The Challenge\n\nBuild a piece of content by combining granular content components\nGenerate multiple output formats from that content\nBonus: Use some advanced Quarto features\nDouble Bonus: change the content based on the output format"
+  },
+  {
+    "objectID": "index.html#submission",
+    "href": "index.html#submission",
+    "title": "Single Source, Many Outputs",
+    "section": "Submission",
+    "text": "Submission\nAs before, you’ll submit a 2-3 page project narrative that includes:\n\na link to the github repository where your project lives\na link to your published site\na discussion of your learning process & strategy,\na description of your artifact and the choices you made\na reflection on challenges, triumphs, and lessons learned."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Here are some essential resources!\nThis is a test!"
+  },
+  {
+    "objectID": "about.html#conceptual-resources",
+    "href": "about.html#conceptual-resources",
+    "title": "Resources",
+    "section": "Conceptual Resources",
+    "text": "Conceptual Resources\nIntroductory resources to key concepts.\n\nSingle Sourcing\nSingle sourcing is a content management strategy where technical communicators create and manage content in a way that allows them to reuse it across multiple documents or formats. This approach aims for efficiency by minimizing duplication and ensuring consistency in documentation.\n\nWhat is single sourcing?\nSingle-Source Publishing\nLiz Fraley on Single Sourcing\n\n\n\nTopic-based Authoring\nTopic-based authoring is an approach where technical writers break content into discrete, self-contained topics. This approach promotes reusability, scalability, and flexibility, as individual topics can be mixed and matched to create various documents or help systems.\n\nJennifer Morse on Topic-Based Authoring\n\n\n\nContent Strategy\nContent strategy is a holistic approach that technical writers use to plan, create, and manage content effectively. It involves defining goals, target audiences, messaging, and distribution channels to ensure that documentation meets both user needs and business objectives.\n\nNatalie Dunbar on IA and Content Strategy"
+  },
+  {
+    "objectID": "about.html#tool-resources",
+    "href": "about.html#tool-resources",
+    "title": "Resources",
+    "section": "Tool Resources",
+    "text": "Tool Resources\nSome key resources for the relevant tools.\n\nRStudio\nRStudio is an integrated development environment (IDE) designed for R programming and data analysis. Technical writers may use it when documenting data analysis procedures, creating R scripts, or producing reports.\n\nInstall RStudio (Posit)\n\n\n\nMarkdown\nMarkdown is a lightweight markup language commonly used by technical writers to format and structure text. It’s simple to learn and widely supported, making it a popular choice for creating documentation and content that can be easily converted to HTML and other formats.\n\nMarkdown Basics (Quarto)\nMarkdown Guide, Get Started\n\n\n\nYAML\nYAML is a human-readable data serialization format that technical writers often use to configure settings, define metadata, and manage structured content. It’s particularly useful for creating configuration files in documentation projects.\n\nYAML (Wikipedia)\nWhat is YAML? (Redhat)\n\n\n\nQuarto\nQuarto is a versatile document compilation and publishing tool tailored for technical and data-centric content. It enables technical writers to create interactive, data-rich documents and reports, making it valuable for projects involving data documentation or analysis.\n\nCreating rich content with Quarto (20 min, Rstudio/Posit conference)\nQuarto workshop. This 2-hour workshop provides a thorough introduction to Quarto, including a strong conceptual explanation of single-sourcing, and subsequently illustrates a lot of the functionality.\nQuarto documentation\n\nThemes. A list of themes that can be used in Quarto.\nIncluding Other Formats. Configure HTML pages to automatically include links to other formats.\nConditional Content. Control whether content renders in specific formats (e.g., hide hyperlinks in output formats that will be printed).\nIncludes. Re-use content across documents (e.g., include an introduction to a topic in a tutorial and a presentation)."
+  }
+]

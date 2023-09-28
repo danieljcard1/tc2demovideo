@@ -1,0 +1,5 @@
+
+YAML is a human-readable data serialization format that technical writers often use to configure settings, define metadata, and manage structured content. It's particularly useful for creating configuration files in documentation projects.
+
+* [YAML](https://en.wikipedia.org/wiki/YAML) (Wikipedia)
+* [What is YAML?](https://www.redhat.com/en/topics/automation/what-is-yaml) (Redhat)

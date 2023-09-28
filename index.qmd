@@ -1,0 +1,44 @@
+---
+title: "Single Source, Many Outputs"
+---
+
+## Description
+
+In this technical challenge, you explore concepts and processes that are central to writing with digital technologies as you use Quarto to create and publish web content. 
+
+## Goals
+
+This assignment is designed to help you:
+
+* gain experience with tools and processes used to create technical content, e.g. markdown, YAML, and single-source publishing
+* learn and apply concepts that inform modern technical communication, e.g. single sourcing, topic-based authoring, content management, content strategy
+* practice using git and github for version control and github pages for web publishing
+
+## Tools
+
+Toward that end, you will use a few key tools:
+
+* RStudio. The interface you will use for authoring.
+* Markdown. The syntax you will use for authoring.
+* YAML. The language you will use to configure your content generation.
+* Quarto. The publishing "system."  
+
+## The Challenge
+
+* Build a piece of content by combining granular content components
+* Generate multiple output formats from that content
+* Bonus: Use some advanced Quarto features
+* Double Bonus: change the content based on the output format
+
+## Submission
+
+As before, you'll submit a 2-3 page project narrative that includes:
+
+* a link to the github repository where your project lives
+* a link to your published site
+* a discussion of your learning process & strategy,
+* a description of your artifact and the choices you made
+* a reflection on challenges, triumphs, and lessons learned.
+
+
+

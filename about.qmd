@@ -1,0 +1,43 @@
+---
+title: "Resources"
+---
+
+Here are some essential resources!
+
+{{< include _test.qmd >}}
+
+## Conceptual Resources
+
+Introductory resources to key concepts. 
+
+### Single Sourcing
+
+{{< include source_topics/concepts/_single_source.qmd >}}
+
+### Topic-based Authoring
+
+{{< include source_topics/concepts/_topic-based_authoring.qmd >}}
+
+### Content Strategy
+
+{{< include source_topics/concepts/_content_strategy.qmd >}}
+
+## Tool Resources
+
+Some key resources for the relevant tools.
+
+### RStudio
+
+{{< include source_topics/tools/_rstudio.qmd >}}
+
+### Markdown
+
+{{< include source_topics/tools/_markdown.qmd >}}
+
+### YAML
+
+{{< include source_topics/tools/_yaml.qmd >}}
+
+### Quarto
+
+{{< include source_topics/tools/_quarto_publishing.qmd >}}

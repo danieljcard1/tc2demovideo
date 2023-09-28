@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "TC#2"
+  navbar:
+    left:
+      - href: index.qmd
+        text: The Challenge
+      - href: about.qmd
+        text: Resources
+
+format:
+  html:
+    theme:
+      light: litera
+      dark: slate
+    css: styles.css
+    toc: true
+  pdf:
+    documentclass: report
+  docx: default
+  pptx: default
+
+
+

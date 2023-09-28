@@ -1,0 +1,4 @@
+
+RStudio is an integrated development environment (IDE) designed for R programming and data analysis. Technical writers may use it when documenting data analysis procedures, creating R scripts, or producing reports.
+
+* [Install RStudio](https://posit.co/download/rstudio-desktop/) (Posit)

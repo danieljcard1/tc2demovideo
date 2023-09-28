@@ -1,0 +1,6 @@
+
+Single sourcing is a content management strategy where technical communicators create and manage content in a way that allows them to reuse it across multiple documents or formats. This approach aims for efficiency by minimizing duplication and ensuring consistency in documentation.
+
+* [What is single sourcing?](https://technicalwriterhq.com/writing/technical-writing/single-source-authoring/)
+* [Single-Source Publishing](https://www.tcbok.org/tools/content-management-systems/single-source-publishing/)
+* [Liz Fraley on Single Sourcing](https://tenminutetechcomm.com/index.php/2022/04/12/liz-fraley-on-single-sourcing/)

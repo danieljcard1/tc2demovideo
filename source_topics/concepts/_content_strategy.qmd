@@ -1,0 +1,4 @@
+
+Content strategy is a holistic approach that technical writers use to plan, create, and manage content effectively. It involves defining goals, target audiences, messaging, and distribution channels to ensure that documentation meets both user needs and business objectives.
+
+* [Natalie Dunbar on IA and Content Strategy](https://tenminutetechcomm.com/index.php/2022/04/12/natalie-dunbar-on-information-architecture-and-content-strategy/)

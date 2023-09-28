@@ -1,0 +1,10 @@
+
+Quarto is a versatile document compilation and publishing tool tailored for technical and data-centric content. It enables technical writers to create interactive, data-rich documents and reports, making it valuable for projects involving data documentation or analysis.
+
+* [Creating rich content with Quarto](https://www.youtube.com/watch?v=A9QRN4cpsDY&t=377s) (20 min, Rstudio/Posit conference)
+* [Quarto workshop](https://www.youtube.com/watch?v=yvi5uXQMvu4). This 2-hour workshop provides a thorough introduction to Quarto, including a strong conceptual explanation of single-sourcing, and subsequently illustrates a lot of the functionality.
+* [Quarto documentation](https://quarto.org/docs/guide/)
+  * [Themes](https://bootswatch.com/). A list of themes that can be used in Quarto.
+  * [Including Other Formats](https://quarto.org/docs/output-formats/html-multi-format.html#overview). Configure HTML pages to automatically include links to other formats. 
+  * [Conditional Content](https://quarto.org/docs/authoring/conditional.html). Control whether content renders in specific formats (e.g., hide hyperlinks in output formats that will be printed).
+  * [Includes](https://quarto.org/docs/authoring/includes.html). Re-use content across documents (e.g., include an introduction to a topic in a tutorial and a presentation).

@@ -1,0 +1,2 @@
+
+Content management encompasses the processes, tools, and workflows used by technical writers to organize, version control, and distribute documentation. It ensures that content is consistently maintained, updated, and made available to users in a structured manner.

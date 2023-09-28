@@ -1,0 +1,4 @@
+
+Topic-based authoring is an approach where technical writers break content into discrete, self-contained topics. This approach promotes reusability, scalability, and flexibility, as individual topics can be mixed and matched to create various documents or help systems.
+
+* [Jennifer Morse on Topic-Based Authoring](https://tenminutetechcomm.com/index.php/2022/04/12/jennifer-morse-on-topic-based-authoring/)

@@ -1,0 +1,5 @@
+
+Markdown is a lightweight markup language commonly used by technical writers to format and structure text. It's simple to learn and widely supported, making it a popular choice for creating documentation and content that can be easily converted to HTML and other formats.
+
+* [Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html) (Quarto)
+* [Markdown Guide, *Get Started*](https://www.markdownguide.org/getting-started/)
